@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQGq9S3567CcvA/profile-displaybackgroundimage-shrink_350_1400/0/1636735799726?e=1642032000&v=beta&t=mtjj5YJp-x-1sXwz6nxQ01t1bdZUZamGuvFA-jn177E)]
+![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQGq9S3567CcvA/profile-displaybackgroundimage-shrink_350_1400/0/1636735799726?e=1642032000&v=beta&t=mtjj5YJp-x-1sXwz6nxQ01t1bdZUZamGuvFA-jn177E)
 
 ### Hi there 👋
 
