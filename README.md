@@ -4,7 +4,7 @@
 <h3 align="center">A passionate back-end engineer from the Netherlands</h3>
 
 <h3 align="left">Connect with me:
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/svincent-cs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="svincent-cs" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/svincent-cs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/svincent-cs/" height="30" width="40" /></a>
 </h3>
 
 <h3 align="left">Languages and Tools:</h3>
